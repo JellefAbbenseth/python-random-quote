@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Added another quota
+Therse still is a way to go
+now it takes time
+What to do now?
